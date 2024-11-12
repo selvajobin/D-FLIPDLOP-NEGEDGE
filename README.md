@@ -48,8 +48,8 @@ Step-7 Check for Race Conditions: Ensure that there are no race conditions or un
 
 ``` 
 Program for flipflops and verify its truth table in quartus using Verilog programming. 
-Developed by:  Bharathganesh S
-RegisterNumber: 212222230022
+Developed by:  Selva jobin S
+RegisterNumber: 212223220102
 ```
 ```
 module EX08DFF(D,Clock,reset,Q);
